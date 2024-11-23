@@ -1,0 +1,17 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+*.swp
+*.bak
+*.tmp
+.shada
+.netrwhist
+.undo
+.viminfo
+
